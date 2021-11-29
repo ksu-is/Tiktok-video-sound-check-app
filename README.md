@@ -11,16 +11,13 @@ Python 3.9.3
 • Kivy
 
 # Simple Functions 
-Shortcut keys if the player is on top and has the focus
-[Space] play or pause current file (if none is playing, the first selected file starts)
-[Enter] play selected files
-[Del] delete selected files from current playlist
-[j] play next file
-[k] play previuos file
+[ESC] Cancel scanning
+[Enter] Iniate profile scanning
+[Space] Goes to next video
 
 
 # Features 
-•Runs on Windows and Linux
+•Runs on iOS and Android
 
 # Support & Troubleshooting
 Extensive support can be found at GitHub project page along with trouble shooting of common problems. As the code has been written with plenty of insightful comments, describing key components, features and reasoning’s in Doxygen markdown style as to directly auto generate html supporting documentation. Which can be found at GitHub project page . Please read through this document and referring linked resources. As it contains additional resources.
