@@ -1,4 +1,4 @@
-# Tiktok-sound-check Get Your GUI On 
+# Tiktok-video-sound-scanner
 Our software will scan a TikTok creator's profile to look for videos with muted sound.
 
 # Capabilities 
