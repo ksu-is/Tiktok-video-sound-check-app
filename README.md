@@ -13,7 +13,7 @@ Python 3.9.3
 # Simple Functions 
 [ESC] Cancel scanning
 [Enter] Iniate profile scanning
-[Space] Goes to next video
+[Space] Goes to next video or link
 
 
 # Features 
@@ -24,6 +24,7 @@ Extensive support can be found at GitHub project page along with trouble shootin
 
 # Credits
 https://github.com/frankenjoe/pyabp - Audio Book Player 
+https://www.youtube.com/watch?v=YDp73WjNISc - Kivy Tutorial
 https://github.com/punker76/simple-music-player/blob/dev/ - Simple Music Player 
 
 # License Information
